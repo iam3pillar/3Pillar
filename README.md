@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I’m 3pillar 👋
 
-<!--
-**Stylishking777/Stylishking777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licensed energy broker • Business owner • Blockchain expert
 
-Here are some ideas to get you started:
+🔗 [Website](https://3pillar.eth.limo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- **Energy Broker & Business Owner:** Licensed professional passionate about sustainable energy solutions.
+- **Blockchain Ecosystem:** Accomplished in delegation, validation, smart contracts, and cryptography.
+- **NFT & Governance:** NFT creator, active in decentralized governance (Governor V3), and community-driven innovation.
+- **Finance:** Experienced NYSE trader, blending traditional finance with blockchain technology.
+
+I’m driven to harness technology for a more sustainable, decentralized future. Let’s connect and collaborate!
